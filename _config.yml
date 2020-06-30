@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Musab A. Alturki"
+  name             : "Musab A. Alturki, PhD "
   avatar           : "musab.alturki.profile.png"
-  bio              : "Senior Research Engineer at Runtime Verification Inc. working on formal modeling and verification of blockchain and distributed systems"
+  bio              : "Senior Research Engineer @ Runtime Verification Inc. working on formal modeling and verification of blockchain and distributed systems"
   location         : "Urbana, IL, USA"
   employer         :
   pubmed           :
