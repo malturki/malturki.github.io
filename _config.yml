@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Musab A. Alturki"
-  avatar           : "images/musab.alturki.profile.png"
+  avatar           : "musab.alturki.profile.png"
   bio              : "Senior Research Engineer in formal modeling and verification of blockchain and distributed systems"
   location         : "Urbana, IL, USA"
   employer         :
