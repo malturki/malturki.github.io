@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-- [2019-12-12] Posted a series of articles [here](https://runtimeverification.com/blog/k-vs-coq-as-language-verification-frameworks-part-1-of-3/) comparing K and Coq as language verification frameworks
+- [2019-12-12] [Posted a series of articles comparing K and Coq as language verification frameworks](/posts/2019/12/k-vs-coq/)
 - [2019-12-10]
