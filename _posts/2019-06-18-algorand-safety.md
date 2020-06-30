@@ -1,5 +1,5 @@
 ---
-title: 'Formally Modeling Algorand and Verifying its Safety Property:'
+title: 'Formally Modeling Algorand and Verifying its Safety Property'
 date: 2019-06-18
 permalink: /posts/2019/06/algorand-safety/
 tags:
