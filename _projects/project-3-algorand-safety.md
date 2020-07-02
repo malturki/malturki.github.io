@@ -1,0 +1,9 @@
+---
+title: "Verification of Algorand's Safety Property"
+excerpt: "Modeling of the Algorand Consensus Protocol in the Coq proof assistant and verifying its safety guarantees"
+collection: projects
+---
+
+The Algorand consensus protocol is a pure Proof-of-Stake (PoS) protocol that provides efficient, secure, and scalable operation while remaining decentralized. The protocol specifies not only the node-local behavior, but also deals with message propagation and delivery, to be able to address two types of attacks: (1) attacks that corrupt participating nodes so that they no longer follow the protocol, e.g., to produce fake transactions or to cast votes for the wrong transactions, and (2) attacks on the underlying network in which the system is deployed, for instance by intercepting, manipulating, and delaying messages. Consensus systems are now the backbone of large cryptocurrencies worth billions of US dollars. This means that vulnerabilities can have catastrophic consequences. Consequently, ensuring correctness and resilience against malicious behavior while designing a consensus protocol is an important and challenging task. Having strong guarantees of correctness and developing a thorough understanding of protocol assumptions can significantly reduce the risk of catastrophic events. In this project, we model and formally verify the Algorand consensus protocol in the Coq proof assistant. A key contribution of this work is the elucidation of the assumptions under which the main safety property of the protocol holds.
+
+The project is hosted [here](https://github.com/runtimeverification/algorand-verification).

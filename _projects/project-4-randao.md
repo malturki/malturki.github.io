@@ -1,0 +1,9 @@
+---
+title: "Statistical Model Checking of RANDAO Against Attacks"
+excerpt: "Statistical model checking of RANDAO’s resilience against pre-computed reveal sstrategies"
+collection: projects
+---
+
+Decentralized (pseudo-)random number generation (RNG) is a core process of many emerging distributed systems, including perhaps most prominently, the upcoming Ethereum 2.0 (a.k.a. Serenity) protocol. To ensure security and proper operation, the randomness beacon must be unpredictable and hard to manipulate. A commonly accepted implementation scheme for decentralized RNG is a commit-reveal scheme, known as RANDAO, coupled with a reward system that incentivizes successful participation. However, this approach may still be susceptible to look-ahead attacks, in which an attacker (controlling a certain subset of participants) may attempt to pre-compute the outcomes of (possibly many) reveal strategies, and thus may bias the generated random number to his advantage. To formally evaluate resilience of RANDAO against such attacks, we develop a probabilistic model in rewriting logic of the RANDAO scheme (in the context of Serenity), and then apply statistical model checking and quantitative verification algorithms (using Maude and PVeStA) to analyze two different properties that provide different measures of bias that the attacker could potentially achieve using pre-computed strategies. We show through this analysis that unless the attacker is already controlling a sizable portion of validators and is aggressively attempting to maximize the number of last compromised proposers in the proposers list, the expected achievable bias is quite limited.
+
+The project is hosted [here](https://github.com/runtimeverification/rdao-smc).

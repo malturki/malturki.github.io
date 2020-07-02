@@ -19,8 +19,8 @@ Formal methods for program verification, specification and design of distributed
 
 ## Recent Projects
 
-- [2020] Verification of finality in Gasper, the core of the Beacon Chain protocol powering Ethereum 2.0
-- [2019] Modeling Algorand's consensus protocol and verifying its safety property
-- [2019] Statistical model checking and quantitative evaluation of RANDAO against pre-computed reveal strategies
-- [2018] Resource-bounded intruders in denial of service attacks
-- [2017] Statistical model checking of distance fraud attacks on the Hancke-Kuhn family of protocols
+- **[2020]** Verification of finality in Gasper
+- **[2020]** An executable model of the Beacon Chain protocol
+- **[2019]** Verification of Algorand's safety property
+- **[2019]** Statistical model checking of RANDAO against attacks
+- **[2018]** Resource-bounded intruders in denial of service attacks
