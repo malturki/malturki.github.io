@@ -24,4 +24,4 @@ Formal methods for program verification, specification and design of distributed
 - **[2019]** [Verification of Algorand's safety property](/projects/project-2019-06-algorand-safety/)
 - **[2019]** [Statistical model checking of RANDAO against attacks](/projects/project-2019-01-randao/)
 - **[2018]** [Resource-bounded intruders in denial of service attacks](/projects/project-2018-12-resource-intruders/)
-- **[2018]** [Modeling and verification distance fraud attacks](/projects/project-2018-11-distance-fraud.md/)
+- **[2018]** [Modeling and verification distance fraud attacks](/projects/project-2018-11-distance-fraud/)
