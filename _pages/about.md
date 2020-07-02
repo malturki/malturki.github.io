@@ -19,8 +19,9 @@ Formal methods for program verification, specification and design of distributed
 
 ## Recent Projects
 
-- **[2020]** Verification of finality in Gasper
-- **[2020]** An executable model of the Beacon Chain protocol
-- **[2019]** Verification of Algorand's safety property
-- **[2019]** Statistical model checking of RANDAO against attacks
-- **[2018]** Resource-bounded intruders in denial of service attacks
+- **[2020]** [Verification of finality in Gasper](/projects/project-2020-06-gasper-coq/)
+- **[2019]** [An executable model of the Beacon Chain protocol](/projects/project-2019-12-beacon-chain-k-concrete)
+- **[2019]** [Verification of Algorand's safety property](/projects/project-2019-06-algorand-safety/)
+- **[2019]** [Statistical model checking of RANDAO against attacks](/projects/project-2019-01-randao/)
+- **[2018]** [Resource-bounded intruders in denial of service attacks](/projects/project-2018-12-resource-intruders.md)
+- **[2018]** [Modeling and verification distance fraud attacks](/projects/project-2018-11-distance-fraud.md/)
