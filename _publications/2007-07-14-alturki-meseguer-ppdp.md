@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2007-07-14-alturki-meseguer-ppdp
 excerpt: 'A real-time, executable formal semantics of the Orc theory of distributed computations'
 date: 2007-07-14
-venue: 'Principles and Practice of Declarative Programming, ACM, pp 131–142, 2007'
+venue: 'Principles and Practice of Declarative Programming, ACM, pp 131–142'
 paperurl: 'http://dl.acm.org/citation.cfm?id=1273920.1273938'
 citation: 'Musab A. Alturki and José Meseguer'
 ---
