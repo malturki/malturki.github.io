@@ -17,7 +17,7 @@ redirect_from:
 
 Formal methods for program verification, specification and design of distributed and concurrent programming languages and systems, and for analysis of security properties.
 
-## Recent Projects
+## Most Recent Projects
 
 - **[2020]** [Verification of finality in Gasper](/projects/project-2020-06-gasper-coq/)
 - **[2019]** [An executable model of the Beacon Chain protocol](/projects/project-2019-12-beacon-chain-k-concrete/)
