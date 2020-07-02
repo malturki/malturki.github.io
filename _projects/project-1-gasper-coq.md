@@ -1,7 +1,6 @@
 ---
 title: "Modeling and Verification of Gasper"
 excerpt: "Modeling Gasper and verifying its properties using the Coq proof assistant"
-permalink: /projects/project-1-gasper-coq
 collection: projects
 ---
 
