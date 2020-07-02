@@ -41,7 +41,7 @@
     <p class="archive__item-excerpt" itemprop="description">
       <i class="fa fa-compass"></i> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       <br>
-      <i class="fa fa-at"></i> {{ post.citation }}
+      {{ post.citation }}
     </p>
 
   </article>
