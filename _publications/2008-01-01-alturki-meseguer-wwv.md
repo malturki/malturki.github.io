@@ -3,7 +3,7 @@ title: "Reduction Semantics and Formal Analysis of Orc Programs"
 collection: publications
 permalink: /publication/2008-01-01-alturki-meseguer-wwv
 date: 2008-01-01
-venue: 'Automated Specification and Verification of Web Systems, ENTCS 200, pp 25–41, 2008'
+venue: 'Automated Specification and Verification of Web Systems, ENTCS 200, pp 25–41'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S157106610800306X'
 citation: 'Musab A. Alturki and José Meseguer'
 ---

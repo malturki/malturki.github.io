@@ -1,6 +1,6 @@
 ---
 title: "Resource-bounded Intruders in Denial of Service Attacks"
-excerpt: "S"
+excerpt: "A formal resource-bounded-intruders model for a wide range of denial of service attacks"
 collection: projects
 ---
 
