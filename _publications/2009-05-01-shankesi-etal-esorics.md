@@ -3,7 +3,7 @@ title: "Model-Checking DoS Amplification for VoIP Session Initiation"
 collection: publications
 permalink: /publication/2009-05-01-shankesi-etal-esorics
 date: 2009-05-01
-venue: 'Fundamental Approaches to Software Engineering, Springer, LNCS 5789, pp 390-405'
+venue: 'European Symposium on Research in Computer Security, Springer, LNCS 5789, pp 390-405'
 paperurl: 'http://link.springer.com/chapter/10.1007/978-3-642-04444-1_24'
 citation: 'Ravinder Shankesi, Musab A. Alturki, Ralf Sasse, Carl A. Gunter and José Meseguer'
 ---
