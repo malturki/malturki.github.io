@@ -3,7 +3,7 @@ title: "Statistical Model Checking of Distance Fraud Attacks on the Hancke-Kuhn 
 collection: publications
 permalink: /publication/2018-01-15-alturki-etal-cps-spc
 date: 2018-01-15
-venue: ', CPS-SPC, ACM, pp 60-71'
+venue: 'Cyber-Physical Systems Security and Privacy, ACM, pp 60-71'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3264895'
 citation: 'Musab A. Alturki, Max Kanovich, Tajana Ban Kirigin, Vivek Nigam, Andre Scedrov and Carolyn Talcott'
 ---
