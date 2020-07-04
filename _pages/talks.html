@@ -14,14 +14,14 @@ author_profile: true
 
 <h2>Invited Talks</h2>
 {% for post in site.talks reversed %}
-  {% if post.type == "Invited" %}
+  {% if post.type == "Invited Talk" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
 
 <h2>Conference Presentations</h2>
 {% for post in site.talks reversed %}
-  {% if post.type != "Invited" and post.type != "Placeholder" %}
+  {% if post.type != "Invited Talk" and post.type != "Placeholder" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
