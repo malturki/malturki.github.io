@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV Highlights"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+  <p><i class="fa fa-address-book"></i> The full CV can be accessed <a href="/files/cv-alturki.pdf">here</a>.</p>
 
 Education
 ======
