@@ -42,7 +42,7 @@ Graduate Student Supervision
 * Omar Alzuhaibi · A Formal Semantics of Orc using the K Framework and Formal Verification of Orc Programs (Fall 2016)
 * Taher Ghaleb · Improved Reverse Engineering Technique for Program Comprehension with Effective Sequence Diagrams (Spring 2016)
 
-PC and Review Board Membership
+Service
 ======
 * FTSCS 2012–2015 · International Workshop on Formal Techniques for Safety-Critical Systems
 * SCP 2017, 2019 · Science of Computer Programming Journal
@@ -74,7 +74,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
