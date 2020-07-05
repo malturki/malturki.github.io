@@ -50,16 +50,9 @@ Service
 * FAC 2011 · Formal Aspects of Computing Journal
 * JCS 2010 · Journal of Computer Security
 
-Skills
-======
-* Programming: C/C++, Java, Python, OCaml, Haskell, Perl, Bash, LaTeX
-* Web: Javascript, JQuery, PHP, HTML5, CSS
-* Verification: Maude, K, Coq, Isabel/HOL, Java Modeling Language (JML), NuSMV, CVC4, Z3
-* Languages: Fluent in both Arabic (native language) and in English
-
 Selected Publications
 ======
-See the [Publications](/publications/) page for some highlights or my [CV](/files/cv-alturki.pdf) for a complete list of publications.
+See the [Publications](/publications/) page or my [CV](/files/cv-alturki.pdf) for a complete list of publications.
 
 Selected Talks
 ======
@@ -68,4 +61,12 @@ See the [Talks](/talks/) page for some highlights or my [CV](/files/cv-alturki.p
 Teaching
 ======
 See [Teaching](/teaching/).
+
+Skills
+======
+* Programming: C/C++, Java, Python, OCaml, Haskell, Perl, Bash, LaTeX
+* Web: Javascript, JQuery, PHP, HTML5, CSS
+* Verification: Maude, K, Coq, Isabel/HOL, Java Modeling Language (JML), NuSMV, CVC4, Z3
+* Languages: Fluent in both Arabic (native language) and in English
+
 
