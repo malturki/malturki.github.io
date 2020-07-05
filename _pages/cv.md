@@ -59,16 +59,13 @@ Skills
 
 Selected Publications
 ======
-See the [Publications](/publications/) page.
+See the [Publications](/publications/) page for some highlights or my [CV](/files/cv-alturki.pdf) for a complete list of publications.
 
 Selected Talks
 ======
-See the [Talks](/talks/) page.
+See the [Talks](/talks/) page for some highlights or my [CV](/files/cv-alturki.pdf) for a complete list of talks.
 
 Teaching
 ======
-See the [Teaching](/teaching/) page.
-
-
-<p><i class="fa fa-address-book"></i> The full CV can be accessed <a href="/files/cv-alturki.pdf">here</a>.</p>
+See [Teaching](/teaching/).
 
