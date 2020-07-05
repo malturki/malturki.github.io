@@ -43,9 +43,7 @@ layout: default
         {% endif %}
 
 
-        {% if page.citation and page.paperurl %}
-          <p>{{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
+        {% if page.citation %}
           <p>{{ page.citation }} </p>
         {% endif %}
 
@@ -57,7 +55,8 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
         {% if page.collection == 'publications' %}
           <div>
-          <i class="fa fa-file-pdf" ></i> {% if page.pdf %}<a href="{{ page.pdf }}">PDF</a>{% else %}PDF{% endif %} |
+          <i class="fa fa-link"></i> {% if page.paperurl %}<a href="{{ page.paperurl }}">DOI</a>{% else %}DOI{% endif %} |
+          <i class="fa fa-file-pdf"></i> {% if page.pdf %}<a href="{{ page.pdf }}">PDF</a>{% else %}PDF{% endif %} |
           <i class="fa fa-book"></i> {% if page.bib %}<a href="{{ page.bib }}">BIB</a>{% else %}BIB{% endif %}
           </div>
         {% endif %}
