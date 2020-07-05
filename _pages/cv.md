@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * 2018–Present: *Senior Research Engineer*, Runtime Verification Inc., Urbana, IL, USA
-* 2011–2019: *Assistant Professor in Computer Science*, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia
+* 2018–Present: *Assistant Professor in Computer Science*, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia
 * 2017-2018: *Visiting Research Scholar*, University of Pennsylvania, Philadelphia, PA, USA
 * 2013–2017: *Assistant Dean of Research*, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia
 * Summer 2008: *Research Engineer Intern*, DOCOMO USA LABS, Palo Alto, CA, USA
@@ -59,18 +59,16 @@ Skills
 
 Selected Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See the [Publications](/publications/) page.
 
 Selected Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+See the [Talks](/talks/) page.
 
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See the [Teaching](/teaching/) page.
+
+
+<p><i class="fa fa-address-book"></i> The full CV can be accessed <a href="/files/cv-alturki.pdf">here</a>.</p>
+
