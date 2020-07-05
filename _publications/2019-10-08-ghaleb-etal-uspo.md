@@ -6,7 +6,7 @@ date: 2019-10-08
 venue: 'Patent US010437572, USPO'
 paperurl: 'https://pdfpiw.uspto.gov/.piw?docid=10437572'
 citation: 'Taher Ghaleb, Khalid Aljasser, Musab A. Alturki'
+pdf: '/files/pub/ghaleb-etal-uspo.pdf'
+bib: '/files/pub/ghaleb-etal-uspo.bib'
 ---
 
-[Pre-print](http://academicpages.github.io/files/paper1.pdf) |
-[Bibtex](#)

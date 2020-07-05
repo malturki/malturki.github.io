@@ -6,6 +6,8 @@ date: 2019-10-11
 venue: 'Formal Methods for Blockchains, (to appear)'
 paperurl: 'https://sites.google.com/view/fmbc/program?authuser=0'
 citation: 'Musab A. Alturki and Grigore Roşu'
+pdf: '/files/pub/alturki-rosu-fmbc.pdf'
+bib: '/files/pub/alturki-rosu-fmbc.bib'
 ---
 
 RANDAO is a commit-reveal scheme for generating pseudo-
@@ -26,5 +28,3 @@ show through this analysis that unless the attacker is already controlling
 a sizable percentage of nodes while aggressively attempting to maximize
 control of the nodes selected to participate in the process, the expected
 achievable bias is quite limited.
-[Pre-print](http://academicpages.github.io/files/paper1.pdf) |
-[Bibtex](#)

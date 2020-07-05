@@ -6,6 +6,8 @@ date: 2019-10-11
 venue: 'Formal Methods for Blockchains, (to appear)'
 paperurl: 'https://sites.google.com/view/fmbc/program?authuser=0'
 citation: 'Musab A. Alturki, Jing Chen, Victor Luchangco, Brandon Moore, Karl Palmskog, Lucas Peña and Grigore Roşu'
+pdf: '/files/pub/alturki-etal-fmbc.pdf'
+bib: '/files/pub/alturki-etal-fmbc.bib'
 ---
 
 The Algorand blockchain is a secure and decentralized public
@@ -24,6 +26,3 @@ ent blocks cannot be certified in the same round, even when the adver-
 sary has complete control of message delivery in the network. We believe
 that our model is sufficiently general and other relevant properties of the
 protocol such as liveness can be proved for the same model.
-
-[Pre-print](http://academicpages.github.io/files/paper1.pdf) |
-[Bibtex](#)
