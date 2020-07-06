@@ -1,4 +1,4 @@
-	---
+---
 title: "Towards a Verified Model of the Algorand Consensus Protocol in Coq"
 collection: publications
 permalink: /publication/2019-10-11-alturki-etal-fmbc
