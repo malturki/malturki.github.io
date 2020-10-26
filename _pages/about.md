@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **[2020-10-15]** Created a K syntax highlighter for the Kakoune text editor [here](/posts/2020/10/k-kakoune)
 - **[2020-07-15]** Published a post on verifying Gasper's finality mechanism in Coq [here](/posts/2020/07/gasper-coq/)
 - **[2019-12-12]** Published a series of articles comparing K and Coq as language verification frameworks [here](/posts/2019/12/k-vs-coq/)
 - **[2019-10-22]** Published a post on modeling the Beacon Chain as an executable formal model in K [here](/posts/2019/10/k-beacon-chains/)
